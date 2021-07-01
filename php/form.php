@@ -4,8 +4,7 @@ header("Content-Type: text/html; charset=utf-8");
 
 session_start();
 
-$admin = 'alexandr.arefyeu@gmail.com';  
-
+$admin = 'name@gmail.com';  
 
 
 ini_set("memory_limit", "320M");
